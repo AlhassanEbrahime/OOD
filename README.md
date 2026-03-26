@@ -43,7 +43,7 @@ Before diving into OOD, make sure you have a solid understanding of the four pil
 
 
 ### 🎓 Course
-
+- [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) 
 - [Ultimate Design Patterns — Udemy](https://www.udemy.com/course/ultimate-design-patterns/)
 
 ### 📚 Book
